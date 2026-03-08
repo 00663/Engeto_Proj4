@@ -11,7 +11,7 @@ Ze zdrojových dat jsem si vytvořil dvě hlavní tabulky:
 ## Odpovědi na výzkumné otázky
 
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
-Mzdy rozhodně nerostou pořád. Z dat je jasně vidět, že v některých letech a oborech průměrná mzda klesla (často to bylo kolem let 2009-2010 kvůli finanční krizi a pak v roce 2013). Háček je ale v tom, že data ukazují jen nominální mzdy. Vůbec nezahrnují inflaci, takže nám neřeknou celou pravdu o reálné kupní síle. Mnohem lepší by bylo analyzovat růst reálné mzdy a ideálně pracovat s mediánem místo průměru. Průměr totiž dost zkreslují mzdy vysokopříjmových lidí, které rostou mnohem rychleji než to, co bere většina obyvatel.
+Mzdy rozhodně nerostou pořád. Z dat je jasně vidět, že v některých letech a oborech průměrná mzda klesla (často to bylo kolem let 2009-2010 kvůli finanční krizi a pak v roce 2013), převážně v oborech těžby, ve státní sféře a pohostinství. Háček je ale v tom, že data ukazují jen nominální mzdy. Vůbec nezahrnují inflaci, takže nám neřeknou celou pravdu o reálné kupní síle. Mnohem lepší by bylo analyzovat růst reálné mzdy a ideálně pracovat s mediánem místo průměru. Průměr totiž dost zkreslují mzdy vysokopříjmových lidí, které rostou mnohem rychleji než to, co bere většina obyvatel.
 
 **2. Kolik je možné si koupit litrů mléka a kg chleba za první a poslední srovnatelné období?**
 * **2006:** Za průměrnou mzdu se dalo koupit zhruba 1312 kg chleba a 1465 litrů mléka.
