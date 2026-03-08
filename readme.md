@@ -1,6 +1,6 @@
 # Engeto SQL Projekt 4 - Analýza potravin a mezd
 
-Tento repozitář obsahuje SQL skripty a výsledky třetího projektu do Engeto Datové Akademie. Cílem bylo analyzovat dostupnost základních potravin v ČR v závislosti na průměrných mzdách a HDP.
+Tento repozitář obsahuje SQL skripty a výsledky čtvrtého projektu do Engeto Datové Akademie. Cílem bylo analyzovat dostupnost základních potravin v ČR v závislosti na průměrných mzdách a HDP.
 
 ## Vytvořené tabulky
 Pro analýzu byly z původních dat vytvořeny dvě souhrnné tabulky:
