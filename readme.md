@@ -18,7 +18,7 @@ Mzdy rozhodně nerostou pořád. Z dat je jasně vidět, že v některých letec
 * **2018:** Kupní síla šla nahoru, dalo se koupit cca 1365 kg chleba a 1669 litrů mléka. Vidíme že tyhle potraviny se tali během 12 let dostupnějí.
 
 **3. Která kategorie potravin zdražuje nejpomaleji?**
-Když porovnám roky 2006 a 2018, tak nejmenší procentuální nárůst měl "Cukr krystalový" a "Rajská jablka" (některé z těchto položek dokonce mírně zlevnily).
+Když porovnám roky 2006 a 2018, tak nejmenší procentuální nárůst měl "Cukr krystalový" -28% a "Rajská jablka" -23%, které jako jediné dva produkty zlevnily.
 
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 Ne. Podle dat nebyl v tomto období žádný rok, kde by průměrný růst cen potravin přeskočil růst mezd o víc než 10 procent. Výpočet je ale nutné brát s rezervou – je to jen obyčejný průměr pár vybraných produktů a neodráží to reálný "spotřební koš". Chybí nám informace o tom, jak velký podíl tyhle potraviny reálně tvoří v běžných výdajích domácností.
