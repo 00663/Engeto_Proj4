@@ -14,8 +14,8 @@ Ze zdrojových dat jsem si vytvořil dvě hlavní tabulky:
 Mzdy rozhodně nerostou pořád. Z dat je jasně vidět, že v některých letech a oborech průměrná mzda klesla (často to bylo kolem let 2009-2010 kvůli finanční krizi a pak v roce 2013). Háček je ale v tom, že data ukazují jen nominální mzdy. Vůbec nezahrnují inflaci, takže nám neřeknou celou pravdu o reálné kupní síle. Mnohem lepší by bylo analyzovat růst reálné mzdy a ideálně pracovat s mediánem místo průměru. Průměr totiž dost zkreslují mzdy vysokopříjmových lidí, které rostou mnohem rychleji než to, co bere většina obyvatel.
 
 **2. Kolik je možné si koupit litrů mléka a kg chleba za první a poslední srovnatelné období?**
-* **2006:** Za průměrnou mzdu se dalo koupit zhruba 1435 kg chleba a 1409 litrů mléka.
-* **2018:** Kupní síla šla nahoru, dalo se koupit cca 1342 kg chleba a 1641 litrů mléka *(čísla vycházejí z SQL dotazu č. 2)*.
+* **2006:** Za průměrnou mzdu se dalo koupit zhruba 1312 kg chleba a 1465 litrů mléka.
+* **2018:** Kupní síla šla nahoru, dalo se koupit cca 1365 kg chleba a 1669 litrů mléka. Vidíme že tyhle potraviny se tali během 12 let dostupnějí.
 
 **3. Která kategorie potravin zdražuje nejpomaleji?**
 Když porovnám roky 2006 a 2018, tak nejmenší procentuální nárůst měl "Cukr krystalový" a "Rajská jablka" (některé z těchto položek dokonce mírně zlevnily).
